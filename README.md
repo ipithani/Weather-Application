@@ -1,4 +1,4 @@
-# Weather-Application
+# Weather Application
     Developed a Weather Application using Python, tkinter and API. This is a user friendly application where we can check the weather updates easily by search in the search bar.
 
 ## The API used for this project:
